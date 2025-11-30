@@ -1,6 +1,6 @@
-# 🔍 find-pe — Linux Privilege Escalation Finder
+# 🔍 find-me-hacker — Linux Privilege Escalation Finder
 
-**find-pe** is a lightweight, fast, and easy-to-use Linux Privilege Escalation scanning tool built for beginners, CTF players, and penetration testers.
+**find-me-hacker** is a lightweight, fast, and easy-to-use Linux Privilege Escalation scanning tool built for beginners, CTF players, and penetration testers.
 
 It checks the most common PE vectors and gives clean, readable output.
 
@@ -23,4 +23,4 @@ It checks the most common PE vectors and gives clean, readable output.
 ## 🚀 Usage
 
 ```bash
-sudo ./find-pe
+sudo ./find-me-hacker
